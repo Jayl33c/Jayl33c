@@ -1,16 +1,20 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/32701711/README.md)
+# Hi, I'm JayleeC 👋
 
-<!--
-**Jayl33c/Jayl33c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Junior in a NYC tech school, plays basketball, likes the color yellow.
 
-Here are some ideas to get you started:
+## Skills I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`CSS` · `HTML` · `learning Java script language`
+
+## Projects
+
+**What I learned:** I learned that its best to work with others rather than just by yourself.
+
+## What's next
+
+Graduating Highschool and getting into college.
+
+## Reach me
+
+Message me through my GitHub profile.
